@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"IZTECH_S002","2025-01-06","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Outdoors (e.g. running, cycling in the city)","yürüyüş",129,240,1,"2025-01-07 01:34:03","2025-01-07 01:36:37","walking"
+"IZTECH_S002","2025-01-07","Yes","None of the above, I did not perform any type of physical activity",,,83,480,,"2025-01-08 00:04:05","2025-01-08 00:05:25",
+"IZTECH_S002","2025-01-08","Yes","None of the above, I did not perform any type of physical activity",,,80,450,,"2025-01-09 02:13:39","2025-01-09 02:14:43",
+"IZTECH_S002","2025-01-09","Yes","None of the above, I did not perform any type of physical activity",,,78,550,,"2025-01-10 00:21:37","2025-01-10 00:22:50",
+"IZTECH_S002","2025-01-10","Yes","None of the above, I did not perform any type of physical activity",,,67,500,,"2025-01-10 23:19:33","2025-01-10 23:20:23",
+"IZTECH_S002","2025-01-11","Yes","None of the above, I did not perform any type of physical activity",,,6,630,,"2025-01-12 02:18:36","2025-01-12 02:19:43",
+"IZTECH_S002","2025-01-12","Yes","None of the above, I did not perform any type of physical activity",,,5,720,,"2025-01-13 01:33:27","2025-01-13 01:34:28",

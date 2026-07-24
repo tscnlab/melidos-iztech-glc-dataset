@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"IZTECH_S015","2025-04-28","Yes","Moderate (causing moderate increases in heart rate and breathing, e.g. cycling in the city)","Indoors (e.g. gym or home workout)","yürüyüş",10,550,0,"2025-04-28 22:50:49","2025-04-28 22:52:06","walking"
+"IZTECH_S015","2025-04-29","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Indoors (e.g. gym or home workout)","ev işi yapmak",0,200,1,"2025-04-29 22:01:50","2025-04-29 22:02:57","Doing housework"
+"IZTECH_S015","2025-04-30","Yes","None of the above, I did not perform any type of physical activity",,,0,700,,"2025-04-30 22:03:53","2025-04-30 22:04:30",
+"IZTECH_S015","2025-05-01","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Both indoors and outdoors","koşma",120,500,0,"2025-05-01 22:24:15","2025-05-01 22:24:58","Running"
+"IZTECH_S015","2025-05-02","Yes","Moderate (causing moderate increases in heart rate and breathing, e.g. cycling in the city)","Indoors (e.g. gym or home workout)","evde pilates",500,500,0,"2025-05-02 22:01:25","2025-05-02 22:02:04","pilates at home"
+"IZTECH_S015","2025-05-03","Yes","None of the above, I did not perform any type of physical activity",,,60,300,,"2025-05-04 11:51:24","2025-05-04 11:51:43",
+"IZTECH_S015","2025-05-04","Yes","None of the above, I did not perform any type of physical activity",,,0,500,,"2025-05-04 22:02:15","2025-05-04 22:02:52",

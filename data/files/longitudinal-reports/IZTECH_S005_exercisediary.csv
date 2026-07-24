@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"IZTECH_S005","2025-01-20","Yes","None of the above, I did not perform any type of physical activity",,,30,180,,"2025-01-20 23:17:00","2025-01-20 23:19:23",
+"IZTECH_S005","2025-01-21","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Both indoors and outdoors","Açık havada 30dk yürüyüş, evde 15dk kas çalıştıran hareketler",10,300,1,"2025-01-21 23:33:45","2025-01-21 23:36:13","30-minute walk outdoors, 15 minutes of muscle-strengthening exercises at home"
+"IZTECH_S005","2025-01-22","Yes","None of the above, I did not perform any type of physical activity",,,0,420,,"2025-01-22 23:47:11","2025-01-22 23:47:46",
+"IZTECH_S005","2025-01-23","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Outdoors (e.g. running, cycling in the city)","Açık havada yürüyüş.",45,420,1,"2025-01-23 23:06:18","2025-01-23 23:07:28","Outdoor walking."
+"IZTECH_S005","2025-01-24","Yes","None of the above, I did not perform any type of physical activity","Outdoors (e.g. running, cycling in the city)",,40,420,,"2025-01-24 23:55:38","2025-01-24 23:56:31",
+"IZTECH_S005","2025-01-25","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Indoors (e.g. gym or home workout)","10 dakikalık hafif egzersiz",0,420,1,"2025-01-26 00:29:56","2025-01-26 00:30:46","10-minute light exercise"
+"IZTECH_S005","2025-01-26","Yes","None of the above, I did not perform any type of physical activity",,,0,480,,"2025-01-26 23:45:34","2025-01-26 23:46:00",
