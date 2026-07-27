@@ -1,6 +1,6 @@
 # MeLiDos IZTECH GLC dataset
 
-This repository contains the Izmir Institute of Technology (IZTECH) site data from the MeLiDos field study, refactored as a GLC Schema 3.0.1 Data Package.
+This repository contains the Izmir Institute of Technology (IZTECH) site data from the MeLiDos field study, refactored as a GLC Schema 3.0.1 Data Package and derived from the [original MeLiDos dataset](https://github.com/MeLiDosProject/DidikogluEtAl_Dataset_2025).
 
 The package entry point is `datapackage.json`. Core study, participant, device, datasheet, dataset, and variable metadata are stored in `data/`; the participant-level CSV files referenced by `data/datasets.json` are organized as:
 
