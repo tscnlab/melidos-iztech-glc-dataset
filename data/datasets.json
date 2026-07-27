@@ -1,6 +1,6 @@
 [
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S001",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -6045,7 +6045,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S002",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -12090,7 +12090,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S003",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -18135,7 +18135,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S004",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -24907,7 +24907,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S005",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -30952,7 +30952,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S006",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -36997,7 +36997,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S007",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -42757,7 +42757,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S008",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -48802,7 +48802,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S009",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -54847,7 +54847,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S010",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -60892,7 +60892,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S011",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -66937,7 +66937,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S012",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -72982,7 +72982,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S013",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -79027,7 +79027,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S014",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -85072,7 +85072,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S015",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -90784,7 +90784,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S016",
     "dataset_participant_associated": true,
     "dataset_crossref": {
@@ -96829,7 +96829,7 @@
     ]
   },
   {
-    "schema_version": "3.0.0",
+    "schema_version": "3.0.1",
     "dataset_internal_id": "MELIDOS_IZTECH_S017",
     "dataset_participant_associated": true,
     "dataset_crossref": {

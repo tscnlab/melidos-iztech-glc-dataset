@@ -1,6 +1,6 @@
 # MeLiDos IZTECH GLC dataset
 
-This repository contains the Izmir Institute of Technology (IZTECH) site data from the MeLiDos field study, refactored as a GLC Schema 3.0.0 Data Package.
+This repository contains the Izmir Institute of Technology (IZTECH) site data from the MeLiDos field study, refactored as a GLC Schema 3.0.1 Data Package.
 
 The package entry point is `datapackage.json`. Core study, participant, device, datasheet, dataset, and variable metadata are stored in `data/`; the participant-level CSV files referenced by `data/datasets.json` are organized as:
 
@@ -13,7 +13,7 @@ The source dataset is:
 
 > Didikoglu, A., Akgun, S. G., Aydin, S. N., Kayar, Z., Zauner, J., & Spitschan, M. (2025). *Personal light exposure dataset for Izmir, Türkiye*. https://doi.org/10.5281/zenodo.16568109
 
-The refactoring converts the imported tabular RData resources to UTF-8 CSV, separates records by participant, and supplies GLC 3.0.0 metadata without modifying the source repository.
+The refactoring converts the imported tabular RData resources to UTF-8 CSV, separates records by participant, and supplies GLC 3.0.1 metadata without modifying the source repository.
 
 ## Validation
 
