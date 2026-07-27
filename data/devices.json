@@ -1,6 +1,6 @@
 [
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL01",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -24,7 +24,7 @@
     "device_firmware_version": "1.8"
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL02",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -48,7 +48,7 @@
     "device_firmware_version": "1.8"
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL03",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -72,7 +72,7 @@
     "device_firmware_version": "1.8"
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL04",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -96,7 +96,7 @@
     "device_firmware_version": "1.8"
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL05_FW1_7",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -120,7 +120,7 @@
     "device_firmware_version": "1.7"
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL05_FW1_8",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -144,7 +144,7 @@
     "device_firmware_version": "1.8"
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL06_FW1_7",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -168,7 +168,7 @@
     "device_firmware_version": "1.7"
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL06_FW1_8",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -192,7 +192,7 @@
     "device_firmware_version": "1.8"
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL07_FW1_7",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -216,7 +216,7 @@
     "device_firmware_version": "1.7"
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL07_FW1_8",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -240,7 +240,7 @@
     "device_firmware_version": "1.8"
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL08",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
@@ -264,7 +264,7 @@
     "device_firmware_version": "1.8"
   },
   {
-    "schema_version": "3.0.1",
+    "schema_version": "3.0.2",
     "device_internal_id": "IZTECH_AL09",
     "device_manufacturer": "Condor Instruments",
     "device_model": "ActLumus AL0101",
