@@ -1,8 +1,8 @@
 "Id","Date","who5_1998_1","who5_1998_2","who5_1998_3","who5_1998_4","who5_1998_5","startdate_2","who5_raw","who5_percentage"
-"IZTECH_S002","2025-01-06","Less than half of the time","Less than half of the time","Less than half of the time","Fair","More than half of the time","2025-01-07 01:36:38",12,48
-"IZTECH_S002","2025-01-07","Less than half of the time","Some of the time","Less than half of the time","Fair","Less than half of the time","2025-01-08 00:05:27",10,40
-"IZTECH_S002","2025-01-08","Less than half of the time","Less than half of the time","Less than half of the time","Good","Some of the time","2025-01-09 02:14:44",11,44
-"IZTECH_S002","2025-01-09","Less than half of the time","Some of the time","Some of the time","Good","Less than half of the time","2025-01-10 00:22:51",10,40
-"IZTECH_S002","2025-01-10","Some of the time","Some of the time","At no time","Poor","Less than half of the time","2025-01-10 23:20:25",6,24
-"IZTECH_S002","2025-01-11","Most of the time","Most of the time","Some of the time","Very good","All of the time","2025-01-12 02:19:44",19,76
-"IZTECH_S002","2025-01-12","Most of the time","Most of the time","Some of the time","Very good","Most of the time","2025-01-13 01:34:29",18,72
+"IZTECH_S002","2025-01-06",3,3,3,3,4,"2025-01-07 01:36:38",12,48
+"IZTECH_S002","2025-01-07",3,2,3,3,3,"2025-01-08 00:05:27",10,40
+"IZTECH_S002","2025-01-08",3,3,3,4,2,"2025-01-09 02:14:44",11,44
+"IZTECH_S002","2025-01-09",3,2,2,4,3,"2025-01-10 00:22:51",10,40
+"IZTECH_S002","2025-01-10",2,2,1,2,3,"2025-01-10 23:20:25",6,24
+"IZTECH_S002","2025-01-11",5,5,2,5,6,"2025-01-12 02:19:44",19,76
+"IZTECH_S002","2025-01-12",5,5,2,5,5,"2025-01-13 01:34:29",18,72

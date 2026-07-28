@@ -1,8 +1,8 @@
 "Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
-"IZTECH_S007","2025-02-24","Yes","Vigorous (causing large increases in heart rate and breathing, e.g. running)","Indoors (e.g. gym or home workout)","Ağırlık ile vücut geliştirme ve koşu",30,360,0,"2025-02-24 22:06:26","2025-02-24 22:08:14","Bodybuilding with weights and running"
-"IZTECH_S007","2025-02-25","Yes","Vigorous (causing large increases in heart rate and breathing, e.g. running)","Indoors (e.g. gym or home workout)","5km yüksek tempo molasız koşu. 28dk.",10,420,0,"2025-02-25 23:20:19","2025-02-25 23:21:10","5km high-intensity continuous run. 28 minutes."
-"IZTECH_S007","2025-02-26","Yes","Vigorous (causing large increases in heart rate and breathing, e.g. running)","Indoors (e.g. gym or home workout)","ağrılık kaldırarak vücut geliştirme ve 1km yüksek tempo koşu",30,,0,"2025-02-26 22:11:41","2025-02-26 22:12:36","weightlifting and 1km high-intensity running"
-"IZTECH_S007","2025-02-27","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Both indoors and outdoors","yürüyüş",30,420,1,"2025-02-27 23:22:59","2025-02-27 23:23:50","walking"
-"IZTECH_S007","2025-02-28","Yes","Vigorous (causing large increases in heart rate and breathing, e.g. running)","Indoors (e.g. gym or home workout)","ağrılık kaldırma",30,300,0,"2025-03-01 01:26:29","2025-03-01 01:26:57","weight lifting"
-"IZTECH_S007","2025-03-01","Yes","Light (causing small to no increases in heart rate and breathing, e.g. taking a stroll in the park)","Outdoors (e.g. running, cycling in the city)","Yürüyüş",30,360,0,"2025-03-02 00:43:57","2025-03-02 00:44:50","Walking"
-"IZTECH_S007","2025-03-02","Yes","None of the above, I did not perform any type of physical activity",,,0,,,"2025-03-02 22:32:59","2025-03-02 22:33:43",
+"IZTECH_S007","2025-02-24",1,1,2,"Ağırlık ile vücut geliştirme ve koşu",30,360,0,"2025-02-24 22:06:26","2025-02-24 22:08:14","Bodybuilding with weights and running"
+"IZTECH_S007","2025-02-25",1,1,2,"5km yüksek tempo molasız koşu. 28dk.",10,420,0,"2025-02-25 23:20:19","2025-02-25 23:21:10","5km high-intensity continuous run. 28 minutes."
+"IZTECH_S007","2025-02-26",1,1,2,"ağrılık kaldırarak vücut geliştirme ve 1km yüksek tempo koşu",30,,0,"2025-02-26 22:11:41","2025-02-26 22:12:36","weightlifting and 1km high-intensity running"
+"IZTECH_S007","2025-02-27",1,3,3,"yürüyüş",30,420,1,"2025-02-27 23:22:59","2025-02-27 23:23:50","walking"
+"IZTECH_S007","2025-02-28",1,1,2,"ağrılık kaldırma",30,300,0,"2025-03-01 01:26:29","2025-03-01 01:26:57","weight lifting"
+"IZTECH_S007","2025-03-01",1,3,1,"Yürüyüş",30,360,0,"2025-03-02 00:43:57","2025-03-02 00:44:50","Walking"
+"IZTECH_S007","2025-03-02",1,4,,,0,,,"2025-03-02 22:32:59","2025-03-02 22:33:43",

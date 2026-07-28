@@ -1,2 +1,2 @@
 "Id","age","sex","gender","native_language","language_specification","employment_status","comments"
-"IZTECH_S007",23,"Male","Man",TRUE,,"Studying and employed",
+"IZTECH_S007",23,2,2,TRUE,,5,

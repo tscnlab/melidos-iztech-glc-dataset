@@ -1,8 +1,8 @@
 "Id","Date","who5_1998_1","who5_1998_2","who5_1998_3","who5_1998_4","who5_1998_5","startdate_2","who5_raw","who5_percentage"
-"IZTECH_S017","2025-05-26","Some of the time","Some of the time","At no time","Fair","More than half of the time","2025-05-27 02:22:54",8,32
-"IZTECH_S017","2025-05-27","Some of the time","At no time","At no time","Fair","Most of the time","2025-05-28 08:54:11",8,32
-"IZTECH_S017","2025-05-28","Some of the time","Some of the time","At no time","Poor","Less than half of the time","2025-05-28 23:48:57",6,24
-"IZTECH_S017","2025-05-29","Less than half of the time","At no time","At no time","Fair","Less than half of the time","2025-05-29 23:52:03",7,28
-"IZTECH_S017","2025-05-30","Less than half of the time","At no time","At no time","Fair","Less than half of the time","2025-05-30 23:27:48",7,28
-"IZTECH_S017","2025-05-31","Some of the time","Some of the time","At no time","Fair","Less than half of the time","2025-05-31 21:30:40",7,28
-"IZTECH_S017","2025-06-01","Some of the time","Less than half of the time","At no time","Fair","Less than half of the time","2025-06-01 23:21:21",8,32
+"IZTECH_S017","2025-05-26",2,2,1,3,4,"2025-05-27 02:22:54",8,32
+"IZTECH_S017","2025-05-27",2,1,1,3,5,"2025-05-28 08:54:11",8,32
+"IZTECH_S017","2025-05-28",2,2,1,2,3,"2025-05-28 23:48:57",6,24
+"IZTECH_S017","2025-05-29",3,1,1,3,3,"2025-05-29 23:52:03",7,28
+"IZTECH_S017","2025-05-30",3,1,1,3,3,"2025-05-30 23:27:48",7,28
+"IZTECH_S017","2025-05-31",2,2,1,3,3,"2025-05-31 21:30:40",7,28
+"IZTECH_S017","2025-06-01",2,3,1,3,3,"2025-06-01 23:21:21",8,32

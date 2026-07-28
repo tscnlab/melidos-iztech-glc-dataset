@@ -1,14 +1,14 @@
 "Id","start","state","duration","end","wearlog_event","reason","wearlog_type","radius","wearlog_bp","wearlog_bag","wearlog_place","wearlog_motion","wearlog_place_english"
-"IZTECH_S008","2025-03-03 20:28:00","off",20,"2025-03-03 20:48:00","Taking the light glasses off","Activity involving contact with water (e.g., showering or bathing)","Current event",,,1,,0,
-"IZTECH_S008","2025-03-03 23:08:00","sleep",460,"2025-03-04 06:48:00","Taking the light glasses off and placing them on nightstand following the instructions before sleep",,"Current event",,,,,,
-"IZTECH_S008","2025-03-04 18:23:00","sleep",711,"2025-03-05 06:14:00","Taking the light glasses off and placing them on nightstand following the instructions before sleep",,"Current event",,,,,,
-"IZTECH_S008","2025-03-05 15:59:00","off",18,"2025-03-05 16:17:00","Taking the light glasses off","Discomfort due to wearing the light glasses (e.g. disturbance to eye sight or pain due to weight)","Current event",,,0,"komodinimde",0,"on my nightstand"
-"IZTECH_S008","2025-03-05 17:22:00","off",29,"2025-03-05 17:51:00","Taking the light glasses off","Activity involving contact with water (e.g., showering or bathing)","Current event",,,1,,0,
-"IZTECH_S008","2025-03-06 18:10:00","off",30,"2025-03-06 18:40:00","Taking the light glasses off",,"Past event that I forgot to log before",,0,0,"masanın üstü",0,"on the table"
-"IZTECH_S008","2025-03-07 13:19:00","off",27,"2025-03-07 13:46:00","Taking the light glasses off","Discomfort due to wearing the light glasses (e.g. disturbance to eye sight or pain due to weight)","Current event",,,0,"masanın üstüne",0,"on the table"
-"IZTECH_S008","2025-03-07 23:48:00","sleep",697,"2025-03-08 11:25:00","Taking the light glasses off and placing them on nightstand following the instructions before sleep",,"Current event",,,,,,
-"IZTECH_S008","2025-03-08 15:07:00","off",295,"2025-03-08 20:02:00","Taking the light glasses off","Activity involving contact with water (e.g., showering or bathing)","Current event",,,1,,0,
-"IZTECH_S008","2025-03-08 21:38:00","off",41,"2025-03-08 22:19:00","Taking the light glasses off","Activity involving contact with water (e.g., showering or bathing)","Current event",,,1,,0,
-"IZTECH_S008","2025-03-08 23:21:00","sleep",515,"2025-03-09 07:56:00","Taking the light glasses off and placing them on nightstand following the instructions before sleep",,"Current event",,,,,,
-"IZTECH_S008","2025-03-09 22:59:00","sleep",590,"2025-03-10 08:49:00","Taking the light glasses off and placing them on nightstand following the instructions before sleep",,"Current event",,,,,,
-"IZTECH_S008","2025-03-10 12:21:00","off",10,"2025-03-10 12:31:00","Taking the light glasses off","Activity involving contact with water (e.g., showering or bathing)","Current event",,,1,,0,
+"IZTECH_S008","2025-03-03 20:28:00","off",20,"2025-03-03 20:48:00",1,3,1,,,1,,0,
+"IZTECH_S008","2025-03-03 23:08:00","sleep",460,"2025-03-04 06:48:00",3,,1,,,,,,
+"IZTECH_S008","2025-03-04 18:23:00","sleep",711,"2025-03-05 06:14:00",3,,1,,,,,,
+"IZTECH_S008","2025-03-05 15:59:00","off",18,"2025-03-05 16:17:00",1,4,1,,,0,"komodinimde",0,"on my nightstand"
+"IZTECH_S008","2025-03-05 17:22:00","off",29,"2025-03-05 17:51:00",1,3,1,,,1,,0,
+"IZTECH_S008","2025-03-06 18:10:00","off",30,"2025-03-06 18:40:00",1,,2,,0,0,"masanın üstü",0,"on the table"
+"IZTECH_S008","2025-03-07 13:19:00","off",27,"2025-03-07 13:46:00",1,4,1,,,0,"masanın üstüne",0,"on the table"
+"IZTECH_S008","2025-03-07 23:48:00","sleep",697,"2025-03-08 11:25:00",3,,1,,,,,,
+"IZTECH_S008","2025-03-08 15:07:00","off",295,"2025-03-08 20:02:00",1,3,1,,,1,,0,
+"IZTECH_S008","2025-03-08 21:38:00","off",41,"2025-03-08 22:19:00",1,3,1,,,1,,0,
+"IZTECH_S008","2025-03-08 23:21:00","sleep",515,"2025-03-09 07:56:00",3,,1,,,,,,
+"IZTECH_S008","2025-03-09 22:59:00","sleep",590,"2025-03-10 08:49:00",3,,1,,,,,,
+"IZTECH_S008","2025-03-10 12:21:00","off",10,"2025-03-10 12:31:00",1,3,1,,,1,,0,
