@@ -1,7 +1,7 @@
 "Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
-"IZTECH_S011","2025-04-14","Yes","None of the above, I did not perform any type of physical activity",,,15,800,,"2025-04-15 01:53:04","2025-04-15 01:54:26",
-"IZTECH_S011","2025-04-15","Yes","None of the above, I did not perform any type of physical activity",,,15,600,,"2025-04-15 22:02:03","2025-04-15 22:02:53",
-"IZTECH_S011","2025-04-16","Yes","None of the above, I did not perform any type of physical activity",,,15,700,,"2025-04-17 01:17:06","2025-04-17 01:17:30",
-"IZTECH_S011","2025-04-17","Yes","None of the above, I did not perform any type of physical activity",,,15,700,,"2025-04-18 01:23:52","2025-04-18 01:24:12",
-"IZTECH_S011","2025-04-19","Yes","None of the above, I did not perform any type of physical activity",,,15,800,,"2025-04-20 03:21:11","2025-04-20 03:21:39",
-"IZTECH_S011","2025-04-20","Yes","None of the above, I did not perform any type of physical activity",,,10,800,,"2025-04-21 02:08:28","2025-04-21 02:08:46",
+"IZTECH_S011","2025-04-14",1,4,,,15,800,,"2025-04-15 01:53:04","2025-04-15 01:54:26",
+"IZTECH_S011","2025-04-15",1,4,,,15,600,,"2025-04-15 22:02:03","2025-04-15 22:02:53",
+"IZTECH_S011","2025-04-16",1,4,,,15,700,,"2025-04-17 01:17:06","2025-04-17 01:17:30",
+"IZTECH_S011","2025-04-17",1,4,,,15,700,,"2025-04-18 01:23:52","2025-04-18 01:24:12",
+"IZTECH_S011","2025-04-19",1,4,,,15,800,,"2025-04-20 03:21:11","2025-04-20 03:21:39",
+"IZTECH_S011","2025-04-20",1,4,,,10,800,,"2025-04-21 02:08:28","2025-04-21 02:08:46",
